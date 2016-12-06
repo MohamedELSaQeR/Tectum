@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tectum.Plugins", "Tectum.Plugins.csproj", "{2CE4510F-1A3F-15EC-289D-F88B4B338703}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tectum", "Tectum.csproj", "{73807FF3-B8D0-0283-9F04-FA8FF5E22C70}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tectum.Editor", "Tectum.Editor.csproj", "{3794A7A9-AB05-BFAA-5F57-31C1245FDBEF}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{2CE4510F-1A3F-15EC-289D-F88B4B338703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CE4510F-1A3F-15EC-289D-F88B4B338703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CE4510F-1A3F-15EC-289D-F88B4B338703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73807FF3-B8D0-0283-9F04-FA8FF5E22C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73807FF3-B8D0-0283-9F04-FA8FF5E22C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73807FF3-B8D0-0283-9F04-FA8FF5E22C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73807FF3-B8D0-0283-9F04-FA8FF5E22C70}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3794A7A9-AB05-BFAA-5F57-31C1245FDBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3794A7A9-AB05-BFAA-5F57-31C1245FDBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3794A7A9-AB05-BFAA-5F57-31C1245FDBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
